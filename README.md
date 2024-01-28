@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/u4z89d2jqgta1.png)
+![MasterHead](https://i.redd.it/u4z89d2jqgta1.png)
 
 
 <h1 align="center">Hi 👋, I'm Oğuz Çapanoğlu</h1>
